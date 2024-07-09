@@ -12,9 +12,14 @@ we allow you to use and play the music in hotels, resturaunts, grocerry stores, 
 we allow you to broadcast these songs over the radio free of charge. please keep in mind you are still subject to any rules and regulations set by your local airwave management agency. in the us, these regulations are set by the fcc. keep in mind that not all songs have a clean version, in which case you might need to clean it yourself or not broadcast it.
 ### videos
 we allow you to use these songs in videos you post. we allow the music to be in videos on youtube, nico nico douga, bilibili, vimeo, twitch, archive of our own, reddit, and github. we also allow you to post short videos with this music on youtube shorts, facebook, instagram, snapchat, and tiktok. other platforms may also be allowed for posting videos or short videos with this music. please see the prohibited usage for types of videos you aren't allow to use it for.
+### scratch
+we allow you to use these songs in any project published on the official scratch website.
 ### remixes
 we allow you to non-commercially remix these songs. you can feed these songs back into suno, or manually remix them. we also allow you to upload your remixes to non-commercial platforms, such as soundcloud, bandcamp, youtube, and github. you cannot monetize the remix of the song except via youtube or bandcamp. we allow monetization on bandcamp only due to bandcamp limiting the number of free downloads per month.
+###
 ## prohibited usage
+### selling the music - original or remixes
+our music is designed to be free forever. you may never sell the original music, whether online, in physical form (usb cd vinyl etc), or any other method. if you have written consent you may sell the music in vintage collectable physical formats. you may only charge for the format and not more for including the content. vintage physical formats is limited to casette tapes, cd disks not including hd cd/cd-r/other modern cd formats, or vinyl record.
 ### porn
 we do not allow you to use these songs in porn or sexually explicit content. porn is defined as content that is sexually explicit or intended to sexual arouse the user. porn can be images, videos, audio clips, text, and other forms of content. content is allowed to mention and/or talk about porn, but it itself cannot be pornographic.
 ### extremist terrorist groups
